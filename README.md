@@ -38,9 +38,9 @@ I am a full stack developer able to build a web presence from the ground up - fr
 💬 Ask me about anything, I'm happy to help. <br />
 💎 Fun fact: I like to spend my free time devoting myself to gemstone artistical creations and paintings. <br />
  
- <div align="center">
+ 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaDefagot&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)
-</div>
+
   
  ⭐️ From [VictoriaDefagot](https://github.com/VictoriaDefagot)
 
