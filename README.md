@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/victoriadefagot/">
-    <img align="left" alt="Victoria's LinkdedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Victoria's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="mailto:defagotvictoria@gmail.com">
     <img align="left" alt="Victoria's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-I am full stack web developer able to build a web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia web tools.
+I am a full stack developer able to build a web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia web tools.
 
 ### My Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -38,8 +38,10 @@ I am full stack web developer able to build a web presence from the ground up - 
 💬 Ask me about anything, I'm happy to help. <br />
 💎 Fun fact: I like to spend my free time devoting myself to gemstone artistical creations and paintings. <br />
  
+ <div align="center">
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaDefagot&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)
-
+</div>
+  
  ⭐️ From [VictoriaDefagot](https://github.com/VictoriaDefagot)
 
 
